@@ -14,7 +14,7 @@ Chirchik, 10-17-2                 abrormukhammadiev@gmail.com
 - Photo/video editing (Adobe Premiere pro, Adobe Photoshop)
  
 
- Experience
+# Experience
 + Projects
   
   - Basic [Hotel Website](https://hotel-bt-2021.netlify.app/). built using only html / css. + Responsive
