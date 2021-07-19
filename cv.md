@@ -21,7 +21,7 @@ Chirchik, 10-17-2                 abrormukhammadiev@gmail.com
   
   - [Landing page](https://accounting-abror.netlify.app/) website for a company
   
-  - [Restaurant-Menu](https://restaurant-abror.netlify.app/)
+  - [Restaurant-Menu](https://restaurant-abror.netlify.app/) website
   
   - [Website Presentation Template](https://your-presentation.netlify.app/)
   
