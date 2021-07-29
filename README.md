@@ -1,1 +1,1 @@
-https://abrorm3.github.io/rsschool-cv/git
+https://abrorm3.github.io/rsschool-cv/
