@@ -1,0 +1,53 @@
+body {
+  line-height: 1.4;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("./images/SectionBackground.png") no-repeat center
+    center/cover;
+}
+.padding-1 {
+  padding: 1rem;
+}
+.container {
+  max-width: 1300px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+.header-align {
+  text-align: center;
+}
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+.about {
+  flex: 5;
+}
+.subject {
+  flex: 1;
+}
+.subject-data {
+  flex: 2;
+}
+footer .footer-details {
+  background-color: #555;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  flex-direction: row;
+}
+footer .footer-details a {
+  text-decoration: none;
+  list-style: none;
+}
+footer p {
+  padding-left: 15px;
+  margin: 0;
+  padding: 0;
+}
