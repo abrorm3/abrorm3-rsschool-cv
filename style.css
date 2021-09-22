@@ -66,6 +66,25 @@ a:hover {
 ul li {
   list-style: none;
 }
+/* Navbar */
+#navbar {
+  background-color: #1a1b1c;
+}
+#navbar .lists {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 4px solid #ffc900;
+}
+#navbar .lists a {
+  color: #ffc900;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.3rem;
+}
+html {
+  scroll-behavior: smooth;
+}
 /* HEADER */
 #header {
   display: flex;
@@ -114,7 +133,7 @@ ul li {
 .aside {
   min-width: 479px;
 }
-.education {
+#education {
   background: #1a1b1c;
   color: #fff;
   padding-left: 48px;
@@ -140,13 +159,13 @@ ul li {
 #section {
   width: 1260px;
 }
-.projects {
+#projects {
   font-family: "Rubik", sans-serif;
 }
-.projects .project h4 {
+#projects .project h4 {
   font-size: 1.2rem;
 }
-.projects .project {
+#projects .project {
   margin-bottom: 25px;
 }
 .project h5 {
